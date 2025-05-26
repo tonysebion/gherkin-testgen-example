@@ -31,7 +31,7 @@ This repository is an example project demonstrating how to automatically generat
    ```
 2. **Add or edit `.feature` files** in the `features/` directory.
 3. **Generate tests and step definitions:**
-   - Use the [Gherkin Test Generation Tool](https://github.com/YOUR_ORG/gherkin-testgen) (replace with your actual tool or package name) to process your feature files:
+   - Use the [Gherkin Test Generation Tool](https://github.com/tonysebion/gherkin-testgen) (replace with your actual tool or package name) to process your feature files:
    ```sh
    npx gherkin-testgen --dir features
    # or use your project's CLI/watcher scripts if available
