@@ -42,3 +42,35 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
+# Lock files (uncomment if you don't want to track these)
+# package-lock.json
+# yarn.lock
+
+# TypeScript incremental compilation cache
+*.tsbuildinfo
+
+# Jest
+/jest-cache/
+.jest-cache/
+
+# npm
+.npm/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Local development
+.local/
+
+# Cucumber reports
+/cucumber-report/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
