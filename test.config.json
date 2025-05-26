@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "featurePath":"/features",
+  "step_definitionsPath":"/step_definitions",
+  "testsPath":"/tests"
+}

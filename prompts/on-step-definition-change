@@ -1,0 +1,1 @@
+run all the cucumber tests and make changes to the files in the step_definitions directory and subdirectories to improve the tests based on the feedback.  this should happen automatically with the watch-step-definitions prcess, but let me confirm the changes to each file    don't generate a common files for multiple files in a feature.

@@ -1,0 +1,3 @@
+# Ignore generated test and step definition files
+/tests/
+/step_definitions/

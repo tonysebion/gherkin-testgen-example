@@ -1,0 +1,10 @@
+name: Weather MCP Server
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: Weather
+    command: npx
+    args:
+      - -y
+      - "@h1deya/mcp-server-weather"
+    env: {}
